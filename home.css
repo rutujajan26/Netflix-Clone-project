@@ -52,8 +52,7 @@ html,body{
     padding-right: 2rem;
     margin-right: 1rem;
     padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-   
+    padding-bottom: 0.5rem;   
   
  } 
  
@@ -82,7 +81,6 @@ h2{
     max-height: 100px;  
     margin-right: 10px;
     transition: transform 450ms;
-
     
 }
 .row-posters:hover{
@@ -90,7 +88,9 @@ h2{
 }
  .row-poster::-webkit-scrollbar{
     display: none;
-} 
+}
+
+
  
 
 
